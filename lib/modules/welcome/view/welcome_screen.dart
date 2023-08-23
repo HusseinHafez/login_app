@@ -6,7 +6,6 @@ import 'package:flutter_login_app/core/utils/app_constants.dart';
 import 'package:flutter_login_app/core/utils/app_images.dart';
 import 'package:flutter_login_app/core/utils/app_strings.dart';
 import 'package:get/get.dart';
-import 'package:get/get_connect/http/src/utils/utils.dart';
 
 import '../../../core/components/app_animation_widget/controller/app_animation_controller.dart';
 

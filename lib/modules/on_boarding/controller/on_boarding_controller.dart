@@ -1,4 +1,3 @@
-import 'package:flutter/material.dart';
 import 'package:flutter_login_app/core/utils/app_colors.dart';
 import 'package:flutter_login_app/core/utils/app_constants.dart';
 import 'package:flutter_login_app/core/utils/app_images.dart';

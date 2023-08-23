@@ -1,4 +1,3 @@
-import 'package:flutter_login_app/modules/home/view/home_screen.dart';
 import 'package:flutter_login_app/modules/on_boarding/view/on_boarding_screen.dart';
 import 'package:get/get.dart';
 
